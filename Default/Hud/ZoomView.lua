@@ -38,7 +38,8 @@ function ZoomView:Activate(_keymap,_sway,_fixedfactor,_fade)
 	end
 	
 	self.Sway = _sway;
-	self.MinSway = _sway*0.5;
+	--self.MinSway = _sway*0.5;
+	self.MinSway = 0;
 	
 	--System:Log("ACTIVATE self.MinSway'"..self.MinSway.."' * self.StanceSwayModifier'"..self.StanceSwayModifier.."'");
 		
