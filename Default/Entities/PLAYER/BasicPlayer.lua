@@ -279,10 +279,10 @@ BasicPlayer =	 {
  	 fBodyHeat=1.0,                  
 
 	StaminaTable = {
-		sprintScale	= 1.4,
-		sprintSwimScale = 1.4,
-		decoyRun	= 10,
-		decoyJump	= 10,
+		sprintScale	= 1.6,
+		sprintSwimScale = 1.6,
+		decoyRun	= 0,
+		decoyJump	= 0,
 		restoreRun	= 1.5,
 		restoreWalk	= 8,
 		restoreIdle	= 10,
