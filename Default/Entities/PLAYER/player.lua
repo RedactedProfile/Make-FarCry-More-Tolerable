@@ -126,7 +126,7 @@ Player = {
 	iLastWaterSurfaceParticleSpawnedTime = _time,
 	Energy = 100,
 	MaxEnergy = 100,
-	EnergyIncreaseRate = 1,	-- units per second
+	EnergyIncreaseRate = 5,	-- units per second
 	MinRequiredEnergy = 20,	-- minimum energy needed to turn on heat vision
 	EnergyChanged = nil,
 

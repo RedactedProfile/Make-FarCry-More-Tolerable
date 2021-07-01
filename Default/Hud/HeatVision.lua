@@ -7,7 +7,7 @@
 --------------------------------------------------------------------
 
 HeatVision = {	
-	EnergyDecreaseRate = 3,		
+	EnergyDecreaseRate = 6,		
 	ActivateSnd=Sound:LoadSound("sounds/items/nvisionactivate.wav"),
 	PrevAmbientColor=nil,	
 	IsActive=0,
